@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">MainSearchTeacher</string>
+    <string name="choice_student">Выберите курс и группу</string>
+    <string name="course">Курс</string>
+    <string name="group">Группа</string>
+    <string name="second_course">2 курс</string>
+    <string name="third_course">3 курс</string>
+    <string name="first_course">1 курс</string>
+    <string name="fourth_course">4 курс</string>
+    <string name="list_teacher">Поиск преподавателя</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string-array name="groups_name">
+        <item>ИВТ_1_1</item>
+        <item>ИВТ_1_2</item>
+        <item>ИВТ_3_4</item>
+
+    </string-array>
+
+</resources>
