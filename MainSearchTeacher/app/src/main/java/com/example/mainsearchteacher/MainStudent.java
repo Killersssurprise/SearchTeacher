@@ -46,6 +46,11 @@ public class MainStudent extends AppCompatActivity {
 
         openFragment(new ScheduleFragment(ivt_1_1));
     }
+
+    private void myNewMethod(){
+        //TODO stuff
+    }
+
     @OnClick(R.id.ivt_1_2_btn)
     public void click_1_2_ivt(){
 
